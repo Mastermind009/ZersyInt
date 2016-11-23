@@ -1,0 +1,4 @@
+<p1>
+HELLO GUYS ITS HOME.PHP
+IN VIEWS
+</p1>
